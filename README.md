@@ -1,6 +1,6 @@
 # java-exercicios
 Repositório das listas de exercícios da disciplina <strong>Linguagens e Técnicas de Programação II</strong> e <strong>Introdução a Orientação a Objetos</Strong>.
-
+> Informações adicionais estão disponíveis em nossa [Wiki](https://github.com/profpantoja/java-exercicios/wiki)
 ## Sumário
 - [Como Contribuir](#como-contribuir-nesse-repositório)
 - [Instruções de Branch](#instruções-úteis)
